@@ -23,5 +23,5 @@ pip3 install --upgrade pip
 Then, install the libraries pandas, numpy, scikit-learn and Jupyter Notebook:
 
 ```
-pip3 install pandas numpy scikit-learn jupyter notebook plotly matplotlib seaborn
+pip3 install pandas numpy scikit-learn jupyter notebook plotly matplotlib seaborn networkx
 ```
